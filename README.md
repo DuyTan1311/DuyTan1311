@@ -3,13 +3,20 @@
 </div>  
   
 
-### *<div align="center">I'm Duy Tan, a solo Indie Game Dev from Vietnam</div>*  
-  
+# ⚔️ CHARACTER SELECT: DUY TAN
+### 🗺️ Class: Solo Indie Game Dev | 📍 Region: Vietnam
 
-- 👾 I'm currently working on my unannounced game  
-  
+*“Why recruit a full studio when you can just code, model, shader, and compose everything yourself?”*
 
-- ❓ Ask me about anything related to game production or game recommendation  
+---
+
+### 🕹️ CURRENT QUEST
+* **Main Quest:** Developing an unannounced indie game (Progress: **[▓▓▓▓▓░░░░░] Working Hard**).
+* **Side Quest:** Chatting about game production, technical art, or exchanging top-tier game recommendations.
+
+</div>
+
+<br clear="both" />
   
 
 <br/>  
@@ -26,31 +33,40 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/DuyTan1311" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/duytann_dev" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
+### 📡 Connect with me (Liên hệ)
+<p align="center">
+  <a href="https://github.com/DuyTan1311" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/duytann_dev" target="_blank">
+    <img src="https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+  </a>
+  <a href="https://discord.gg/users/dtann.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+<br clear="both" />  
   
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNreXU4ZGw4emlyOHN3dzRpZ2wzbDZodHdidmUyNDRieWZzeXplOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIpj8HJGVGGTUdM76b/giphy.gif" align="left" height="" width="550" />  
-  
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNreXU4ZGw4emlyOHN3dzRpZ2wzbDZodHdidmUyNDRieWZzeXplOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIpj8HJGVGGTUdM76b/giphy.gif" width="550" />
+</p>
 
-<br/>  
+<br clear="both" />
 
-<br/>  
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=DuyTan1311&show_icons=true&count_private=true&hide_border=true" align="left" />  
+## 📊 Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyTan1311&hide_border=true&layout=compact" align="left" />  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DuyTan1311&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyTan1311&hide_border=true&layout=compact" />
+</p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhybmgzc3pja2p4MWNkdDFrZm0xMW55dzE2OWw5NDkxNXU1dXZhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" align="left" height="" width="600" />  
+<br clear="both" />
 
-<br />
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhybmgzc3pja2p4MWNkdDFrZm0xMW55dzE2OWw5NDkxNXU1dXZhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="600" />
+</p>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br clear="both" />
+
