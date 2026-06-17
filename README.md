@@ -3,7 +3,7 @@
 </div>  
   
 
-# ⚔️ CHARACTER SELECT: DUY TAN
+# ⚔️ CHARACTER PROFILE: DUY TAN
 ### 🗺️ Class: Solo Indie Game Dev | 📍 Region: Vietnam
 
 *“Why recruit a full studio when you can just code, model, shader, and compose everything yourself?”*
@@ -58,15 +58,7 @@
 ## 📊 Github Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuyTan1311&show_icons=true&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyTan1311&hide_border=true&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyTan1311&theme=tokyonight&hide_border=true" />
 </p>
 
 <br clear="both" />
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhybmgzc3pja2p4MWNkdDFrZm0xMW55dzE2OWw5NDkxNXU1dXZhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="600" />
-</p>
-
-<br clear="both" />
-
