@@ -18,7 +18,7 @@
 ## My Skill Set  
 ### 🕹️ Hard Skills
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/HLSL_Shader-00599C?style=for-the-badge&logo=opengl&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" /> <img src="https://img.shields.io/badge/DaVinci_Resolve-1A73E8?style=for-the-badge&logo=davinciresolve&logoColor=white" /> <img src="https://img.shields.io/badge/REAPER_DAW-3A3D52?style=for-the-badge&logo=audacity&logoColor=white" />
-### 🎨 Specialized Skills (Kỹ năng chuyên môn)
+### 🎨 Specialized Skills
 <img src="https://img.shields.io/badge/Game_Design-FF2A6D?style=for-the-badge&logo=gamedeveloper&logoColor=white" /> <img src="https://img.shields.io/badge/Level_Design-2ECC71?style=for-the-badge&logo=epicgames&logoColor=white" /> <img src="https://img.shields.io/badge/Technical_Art_/_VFX-05D9E8?style=for-the-badge&logo=shadinglanguages&logoColor=white" /> <img src="https://img.shields.io/badge/3D_Modeling-F1C40F?style=for-the-badge&logo=autodesk&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Narrative_Design-9B59B6?style=for-the-badge&logo=gitbook&logoColor=white" /> <img src="https://img.shields.io/badge/Composing-01012B?style=for-the-badge&logo=preact&logoColor=white" /> <img src="https://img.shields.io/badge/Sound_Design_/_SFX-A04000?style=for-the-badge&logo=dolby&logoColor=white" /> <img src="https://img.shields.io/badge/UI_/_UX_Design-E67E22?style=for-the-badge&logo=figma&logoColor=white" />  
   
