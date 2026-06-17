@@ -6,7 +6,7 @@
 # ⚔️ CHARACTER PROFILE: DUY TAN
 ### 🗺️ Class: Solo Indie Game Dev | 📍 Region: Vietnam
 
-*“Why recruit a full studio when you can just code, model, shader, and compose everything yourself?”*
+*“I'm a one-man game studio, literally.”*
 
 ---
 
