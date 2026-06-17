@@ -55,16 +55,16 @@
 
 <br clear="both" />
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhybmgzc3pja2p4MWNkdDFrZm0xMW55dzE2OWw5NDkxNXU1dXZhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="600" />
-</p>
-
-<br clear="both" />
-
 ## 📊 Github Stats  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyTan1311&theme=tokyonight&hide_border=true" />
+</p>
+
+<br clear="both" />
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhybmgzc3pja2p4MWNkdDFrZm0xMW55dzE2OWw5NDkxNXU1dXZhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="600" />
 </p>
 
 <br clear="both" />
