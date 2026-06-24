@@ -1,14 +1,13 @@
 <div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3prZTJmbW5ic3ducDMydGUwYWtjb3h5Y2J0eXk0ZnF3OTdoc25vdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 # HI, I'M DUY TAN 👋
 ### 🕹️ Game Developer
 
 Focusing on game programming, graphics optimization, and creating immersive interactive experiences.
 
----
+</div> 
 
 ## 🛠️ My Skill Set  
 ### Core Tech
@@ -30,7 +29,7 @@ Focusing on game programming, graphics optimization, and creating immersive inte
 ## 📊 Github Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyTan1311&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyTan1311&theme=transparent&hide_border=true" />
 </p>
 
 <br clear="both" />
